@@ -27,12 +27,6 @@ matplotlib: For creating static visualizations.
 seaborn: For advanced visualizations and plots.
 numpy: For numerical operations.
 
-#Getting Started
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/titanic-eda.git
-
 # Install required libraries:
 bash
 Copy code
@@ -50,6 +44,17 @@ output/: Directory with images of generated visualizations.
 # Conclusion
 Through EDA, we uncovered interesting trends such as the higher survival rates of women and first-class passengers, and we visualized important relationships between key variables in the Titanic dataset.
 
-# Glimps of Data analysis and Visualisation 
+# Glimps of Data Analysis and Visualisation 
 
+![Survival Rate by Gender](https://github.com/user-attachments/assets/8447e980-efaf-4634-868e-9ba9f9c56710)
+
+![Survival Rate by Passenger Class (Pclass)](https://github.com/user-attachments/assets/5d6b86b3-b3f0-4c76-b598-4f658559dfab)
+
+![survival_by_embarked](https://github.com/user-attachments/assets/44967f77-43c0-446c-bd9a-f4a905ec6710)
+
+![survival_by_family_size](https://github.com/user-attachments/assets/ca71bd8a-1755-4d87-9670-793f07691720)
+
+![age_distribution_survivors_vs_non_survivors](https://github.com/user-attachments/assets/0471e511-21df-4a49-9ba8-8851d557cb09)
+
+![correlation_heatmap](https://github.com/user-attachments/assets/06cf0a8a-16db-41c9-888c-b8ac8dc355ae)
 
